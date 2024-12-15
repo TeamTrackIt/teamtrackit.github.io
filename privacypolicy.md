@@ -18,6 +18,7 @@ The protection and confidentiality of your data very important. In this Privacy 
 The object of data protection is personal data. This includes details such as your name, postal address, email address, telephone number or, where appropriate, even usage data.
 
 **2. Data collection and use**
+<br>
 **Automatic data collection**
 
 When you visit our website, your internet browser automatically transmits data for technical reasons. The following data is stored separately from other data you may send to us:
@@ -52,7 +53,7 @@ Analytics: In order to provide our products, we use cookies and other identifier
 Performance: Our application uses cookies for load balancing to ensure our website remains functional.
 
 **3. Personal information collected and used in the app**
-
+<br>
 We will follow the principles of legitimacy, lawfulness, and necessity to collect and use the personal information you voluntarily provide during the use of the product (or service) based on the following functions and services.
 
 **Register an account**
@@ -61,7 +62,8 @@ When you register and log in to your account, you need to provide them separatel
 Register with email: email address, and set a password
 Focus To-Do also provides local mode without registering an account. If you choose not to register an account, you will not be able to sync your task data between multiple devices, and once you uninstall the app, your local mode task data will be lost.
 
-**Application feature**
+**Application feature** 
+<br>
 **1) Sync task data**
 
 Once you register an account and create lists, tasks and other data in your account, in order for you to properly and completely synchronize data between devices, you need to allow us to collect:
@@ -102,6 +104,7 @@ The permissions we will apply for and the functions corresponding to these permi
 * Allow access to camera: When you set your account avatar, we will apply for this permission. After obtaining authorization, you can take pictures and use the picture as your avatar. Of course, you can refuse, which will not affect the normal use of the app
 
 **4. Data storage and deletion**
+<br>
 **Delete data**
 
 If your data is no longer needed for the above-mentioned purposes, you can delete it. If you want to delete all data, you can delete it permanently in the application user information interface. After the data is deleted, the previous data will no longer be available.
@@ -119,6 +122,7 @@ The personal information we collect and generate in this product and service wil
 If the user deletes the account, the data will be deleted immediately; if app stops operating due to poor management, we will stop receiving and saving new data, notify the user that app will soon stop operating, and delete all data after notifying the user.
 
 **5. Policy Update**
+<br>
 **Precedence**
 
 This privacy policy is for the application software that focuses on the list application and the related services it provides. If there is any inconsistency between this privacy policy and the privacy policy of Tomato Software Technology Co., Ltd., this privacy policy shall prevail; if this privacy policy does not include (agreement) ), the content contained (agreed) in the Tomato Software Technology Co., Ltd. Privacy Policy shall prevail
