@@ -1,16 +1,16 @@
 # Site settings
-title: Studio444
+title: TrackIt
 description: >
-  Studio444 makes a game that everyone can enjoy! We are creator of Tiny Jump and Tiny Set.
+  Time is equally given to everyone, but how you use it can make all the difference. This app is more than just a time tracker. It’s a powerful companion that helps you stay focused on your goals, see the results of your efforts at a glance, and measure your progress effectively.
 
-tags: "Studio444, Tiny Jump, Tiny Set, 타이니 점프, 타이니 세트, 스튜디오444"
+tags: "trackit, timetracker, timetrackingapp, pomodoro, tasktracker"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://studio444.github.io/" # the base hostname & protocol for your site
+url: "https://teamtrackit.github.io/" # the base hostname & protocol for your site
 
 author:
-  fullname: Studio444
-  github: https://studio444.github.io/
-  email: studio444.contact@gmail.com
+  fullname: TrackIt
+  github: https://teamtrackit.github.io/
+  contact: https://tracktogoal.canny.io/feature-requests
 
 
 # Syntax highlighting
