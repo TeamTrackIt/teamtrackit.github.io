@@ -10,7 +10,7 @@ url: "https://teamtrackit.github.io/" # the base hostname & protocol for your si
 author:
   fullname: TrackIt
   github: https://teamtrackit.github.io/
-  contact: https://tracktogoal.canny.io/feature-requests
+  email: https://tracktogoal.canny.io/feature-requests
 
 
 # Syntax highlighting
