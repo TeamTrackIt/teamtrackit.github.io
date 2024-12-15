@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HELLO WORLD! WE ARE
+title: TrackIt
 subtitle:
 sitemap:
   priority: 0.9
@@ -9,6 +9,6 @@ sitemap:
 <img src="{{ '/assets/img/main.jpg' | prepend: site.baseurl }}" id="about-img">
 
 <div id="describe-text">
-	<p>We want to create games that people can enjoy year after year.</p>
-	<p>Creator of Tiny Jump and Tiny Set.</p>
+	<p>Do you really know how well you’re spending your time each day?</p>
+	<p>By simply measuring and analyzing your time, you can make your day more productive and meaningful.</p>
 </div>
