@@ -6,130 +6,128 @@ subtitle:
 <br>
 
 
-**Studio444 PRIVACY POLICY**
+**TrackIt PRIVACY POLICY**
 
 **Last updated: August 1, 2021**
 
-**Studio444** (“Studio444,” “we,” “us”) has adopted this privacy policy (“Privacy Policy”) to explain how Studio444 collects, stores, and uses the information collected in connection with Studio444’s products, services, games, Tiny Jump, Tiny Set (“Games”) and websites (together “Services”).
+This policy only applies to the product "TrackIt" of TeamTrackIt. and its related services.
+The protection and confidentiality of your data very important. In this Privacy Policy we would like to tell you what personal data we collect and what we use it for. Below, we will tell you about the type and scope of personal data collected and used, and the purposes for which it is collected. You can call this information on our website at any time.
 
-Should you have any questions relating to this Privacy Policy, please contact us at 444together@gmail.com.
+**1. Scope of data protection**
 
-Studio444 reserves the right to modify this Privacy Policy, so please review it frequently. Your continued use of Services will signify your acceptance of the changes to this Privacy Policy.
+The object of data protection is personal data. This includes details such as your name, postal address, email address, telephone number or, where appropriate, even usage data.
 
-Personal Information We Collect and How We Use It.
-When you visit and/or use our Services, we may collect information from the device you are using. All of these types of information we may collect about you are called your “Personal Information.” When you visit the Services, we automatically collect certain information that does not tell us who you are, but may let us identify the specific device you are using to visit the Services (such as your computer, tablet, or smartphone) (“Device”), and information about your web browser, your Device manufacturer, your operating system and version, network information, IP address and general location information, and your time zone and language settings. As you browse the Services, we collect information about the individual web pages or products that you view on the Services, what websites or search terms referred you to the Services, and information about how you interact with the Services. We refer to this automatically-collected information as “Device Information.”
+**2. Data collection and use**
+**Automatic data collection**
 
-We and our Service Providers (defined below) collect Device Information by setting cookies and other tracking technologies on the Services. For more information about cookies and other tracking technologies we use on the Services, and how you can control their use, please review our Cookie Policy in Section 9 below. 
+When you visit our website, your internet browser automatically transmits data for technical reasons. The following data is stored separately from other data you may send to us:
+The date and time of your visit
+Your browser type and version
+The operating system you are using
+URL of a website you have visited before
+Amount of data transferred
+For technical reasons, these data are stored and not assigned to any identifiable person at any time.
 
+**Data entered by the user**
 
+You can use our application with and without registration. However, you can only access our application using certain terminals such as iPhone, iPod, iPad, Windows, Mac or Android. In order to take advantage of all its advantages , you must be registered. To do this, you must enter your email address and choose a password. We need this data to ensure that you can take advantage of our full range of Premium features.
+The central features of our app are task management and the Pomodoro Technique. You will be able to use this product both online and offline.
+If our app is only used offline, the data you enter will be scattered across your storage medium. In this case, we will not be able to access the data.
+If you use our application in conjunction with a registered account and you are a premium member, all data and tasks entered will be integrated into a database. The purpose of this database is to allow you to use our application and invoke your tasks anytime, anywhere. Data is transmitted to the appropriate terminal using SSL encryption for secure data transfer.
 
-**Sharing Your Personal Information with Third Parties.**
+**Data Transfer**
 
-**Service Providers**. 
-Like most companies, we use tools from service providers to help us run our business (“Service Providers”). Depending on the service we need, these Service Providers may have access to your Personal Information. 
+We will of course not transfer your data to third parties without notifying you in advance or obtaining your prior consent. In the following special cases, we may only transfer your data to third parties and not You will be notified separately in advance as follows:
+In the event of an investigation into illegal use of our app or legal proceedings, personal data will be transferred to the criminal investigation authorities and, where appropriate, to an aggrieved third party. Only when there are concrete indications of unlawful and/or abusive conduct , we will only do so. We can only transfer your personal data if it is used to enforce general business terms and conditions or other agreements. We are also legally obligated to provide information to certain public authorities.
+Occasionally, we rely on contractually related external companies and external service providers to provide services, such as providing advertising measures (only if you have your prior express consent), processing payments (PayPal, credit cards, etc.), storing your Data and customer service. In this case, information is passed on to these companies or individuals to enable them to further process this information. We carefully select these external service providers and review them regularly to ensure that your Privacy is protected. Service providers may only use data for the purposes specified by us.
 
-We require all Service Providers to treat your Personal Information as confidential information and only use it for the services we need. However, we do not have direct control over how Service Providers use your Personal Information, and we cannot guarantee that our Service Providers will use your Personal Information as we have told them. For this reason, we are not responsible for our Service Providers’ misuse of your Personal Information.  For more information on how Service Providers use your Personal Information, please review our Service Provider’s privacy policy. 
+**Cookies**
 
+Our application stores so-called "cookies" in order to be able to provide you with a wide range of functions and to make it easier to use our products. "Cookies" are stored on your computer with the help of your Internet browser Small files on your computer. If you do not want to use "cookies", you can prevent "cookies" from being stored on your computer using the appropriate settings on your Internet browser. Please note that this may limit the functional scope of our products and functional scope.
+We use cookies and similar technologies for a variety of purposes, including:
+Storing your preferences and settings: The settings that enable our website to function properly or maintain your preferences over time may be stored on your device.
+Login and Authentication: When you log in to the website, we store a unique ID number and the time you logged in in an encrypted cookie on your device. Using this cookie, you can log in again without having to log in on each page. Move between pages within the site.
+Security: We use cookies to detect fraud and abuse of our website.
+Analytics: In order to provide our products, we use cookies and other identifiers to collect usage and performance data. For example, we use cookies to count the number of unique visitors to a web page or service and to develop other statistics about the operation of our products.
+Performance: Our application uses cookies for load balancing to ensure our website remains functional.
 
-**Studio444 Service Providers :** 
+**3. Personal information collected and used in the app**
 
-Name / Service Provider Type / Privacy Policy URL as
+We will follow the principles of legitimacy, lawfulness, and necessity to collect and use the personal information you voluntarily provide during the use of the product (or service) based on the following functions and services.
 
-Ad Mob / Advertising / https://policies.google.com/privacy?hl=en
+**Register an account**
 
-Amazon Ads / Advertising / https://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&nodeId=468496&ref_=a20m_us_fnav_l_prvcy_us
+When you register and log in to your account, you need to provide them separately according to the following registration methods:
+Register with email: email address, and set a password
+Focus To-Do also provides local mode without registering an account. If you choose not to register an account, you will not be able to sync your task data between multiple devices, and once you uninstall the app, your local mode task data will be lost.
 
-AppLoving / Advertising / https://www.applovin.com/privacy/
+**Application feature**
+**1) Sync task data**
 
-Facebook / Advertising / https://www.facebook.com/privacy/explanation
+Once you register an account and create lists, tasks and other data in your account, in order for you to properly and completely synchronize data between devices, you need to allow us to collect:
+Your projects, folders, tags
+Your task title, task content, task priority, task due date (or time period), task reminder time, task repetition rule, task label, task estimated Pomodoro, task actual Pomodoro
+The above information is only used to synchronize your list and task data between devices, we will not read your list and task content.
 
-MoPub Marketplace / Advertising / https://www.mopub.com/legal/privacy
+**2) Check statistics and updates**
 
-Unity Ads / Advertising / https://unity3d.com/legal/privacy-policy
+You query task statistics and focus time statistics in the app. In order to ensure that you can view data statistics and task change history normally in the app, the information we may collect includes:
+The time you created the task, the time you completed the task
+When you harvested tomatoes
 
+**3) Import and Export data**
 
-**Business Transfers.** 
-As Studio444 grows and changes, we may reorganize our company, join with or create new companies, or start business relationships with other companies. When any of these changes happen, any information you provide may be shared with or transferred to these companies (subject to any pre-existing privacy notice unless you consent otherwise). If Studio444 is bought or merges with another business, your information will likely be transferred to that business. You understand and agree that we reserve the right to transfer any information collected from you in these cases. If a change happens, we will use reasonable efforts to notify you before information about you is transferred and a different privacy policy would apply. 
+You can export your tasks and track history data, and import the data in other devices.
 
+**4) * ANDROID ID**
 
-**Legal.** 
-We may disclose information you provide to respond to subpoenas, court orders, requests from authorities, and other legal processes, and to establish/exercise our legal rights. We may also disclose your information to defend against legal claims when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. We may share your information to investigate, prevent or take action regarding illegal activities, suspected fraud, and situations involving potential threats to the physical safety of any person, violations of our Terms of Use, or as otherwise required by law.
+Get the AES Key generated for encryption, used to encrypt the content of the user profile
 
+**5) SDK used by Android app**
 
-**How Is My Personal Information Used for Analytics?**
-As an online business, it is important for us to know how users interact with our Service. We and our Service Providers will collect your location information and Device Information so we can deliver our Service to our users, measure, analyze, and improve our Service, and update and develop our Service. For example, we will use this information to fix any bugs or errors in the Service, study the demographics of our users, and to decide if we need to support a new device type for the Service.  
+* Tencent bugly: Collect app crash information to fix product bugs.
+* Alipay payment: Collect payment-related registration information, account information, and other personal information related to payment scenarios, and provide these necessary information to Alipay during the payment process.
+* WeChat Payment: Collect network status, device information, and provide these necessary information to WeChat during the payment process.
+* Firebase Statistics: Collect device model, application version, and application crash information to fix product bugs.
 
+**6) Others**
 
-**How Is My Personal Information Used for Advertising?**
-To help us keep our Games running, we show ads in our Games with the help of third-party advertising partners (“Ad Partners”). We integrate Ad Partners’ technologies into our Games which are then used by the Ad Partners to determine what kind of ads to display to you.  
+You can choose to provide us with and allow us to collect the following information by improving your personal data: avatar, nickname. These information are not necessary to use various business or system functions, and we will not force you to provide this information. Rejection will not adversely affect the use of the app.
 
+**Permissions that will be applied in the app**
 
-**Do Ad Partners Collect My Personal Information?**
-In order to show you ads that you might find interesting and/or relevant (“Targeted Ads”), Ad Partners collect and use your advertising ID, location information, and Device information. If location services are enabled in your Device settings, the Ad Partners may additionally collect your geolocation information. Because these Ad Partners’ technologies control what kind of Personal Information is collected from your Device and how it is used, we encourage you to review their respective privacy policies. 
+We need to apply for some system permissions involving personal privacy to ensure that certain functions in the app can be used normally. We will apply for authorization from you when you use these functions, and we will only access your personal information after obtaining your authorization. Information. If you do not need to use these functions, you can refuse the authorization; if you have never used these functions, we will not apply for permission from you and will not access your personal information.
+The permissions we will apply for and the functions corresponding to these permissions include:
+* Allow writing to external storage: When you save attachments in a task to your phone, we will apply for this permission. After authorization, you can download the attachments in the task to your phone locally
+* Allow access to camera: When you set your account avatar, we will apply for this permission. After obtaining authorization, you can take pictures and use the picture as your avatar. Of course, you can refuse, which will not affect the normal use of the app
 
+**4. Data storage and deletion**
+**Delete data**
 
-**How to Opt-Out of Receiving Targeted Ads.**
-If you do not want to receive Targeted Ads on your mobile Device, your mobile Device may give you the option to opt-out of receiving Targeted Ads on all apps on your Device. On Android Devices, you may opt-out by enabling the “Opt out of Ads Personalization” setting. On iOS Devices, you may opt-out by enabling the “Limit Ad Tracking” setting. Please note that if you opt-out of receiving Targeted Ads, you will still receive contextual ads, which are non-targeted ads related to the content of the Game you are playing. 
+If your data is no longer needed for the above-mentioned purposes, you can delete it. If you want to delete all data, you can delete it permanently in the application user information interface. After the data is deleted, the previous data will no longer be available.
 
+**Delete account**
 
-**Ads for the Games on Third-Party Websites and/or Apps.**
-In addition to running ads in our Games, we also run ads to promote our Games in third-party websites and/or apps. When we run our own ads in third-party websites and/or apps, Service Providers help us optimize and measure performance of our ads and use their own tracking technologies to track Game installs and clicks and/or impressions of our ads. In some cases, we will share your hashed or anonymized advertising ID with our Ad Partners so that the Ad Partner can help us market and promote our Games. In these cases, Ad Partners perform as Studio444’s Service Providers and we contractually require such Ad Partners to only use your Personal Information on our behalf. If you wish to opt-out of your Personal Information being shared with Ad Partners in this way, please contact us at 444together@gmail.com.   
+If the user needs to delete the account, he or she can delete it permanently on the user information page of the application. After the account is deleted, the user will no longer be able to log in with the account, and will no longer be able to obtain the previous account data.
 
+**Data storage location**
 
-**Ads for Users in EU**
-Studio444 may display to you behaviorally targeted advertising. If you are a resident of the European Economic Area, subject to the GDPR guidelines, you may be asked to confirm your desire to receive personalized advertising utilizing your Device ID, coarse location and other data and to confirm that you are 16 years of age or older. If you consent, you can always choose to opt-out at a later date by using the settings on your phone or tablet. Additionally please note that, if you “opt out,” it does not mean that you will no longer receive advertising. It just means that the advertising you see displayed will not be customized to you and your interests, and may be less relevant to you.
+The personal information we collect and generate in this product and service will be stored in the South Korea(Republic of Korea).
 
+**Data retention period**
 
-**Do Not Track.** 
-Please note that we do not change our Services data collection and use practices when we see a “Do Not Track” signal from your browser.
+If the user deletes the account, the data will be deleted immediately; if app stops operating due to poor management, we will stop receiving and saving new data, notify the user that app will soon stop operating, and delete all data after notifying the user.
 
+**5. Policy Update**
+**Precedence**
 
+This privacy policy is for the application software that focuses on the list application and the related services it provides. If there is any inconsistency between this privacy policy and the privacy policy of Tomato Software Technology Co., Ltd., this privacy policy shall prevail; if this privacy policy does not include (agreement) ), the content contained (agreed) in the Tomato Software Technology Co., Ltd. Privacy Policy shall prevail
 
-**Social Media Features and Tools.** 
-The Services may include integrated social media features and tools, such as seeing your Facebook friends leaderboard in the Game. These features may collect information on your friend’s name and IDs. Social media features and tools are hosted by Facebook, and your interactions with these integrated social media features and tools are governed by the privacy policy available at: https://www.facebook.com/about/privacy.  
+**Amendments to this Privacy Policy**
 
+The company reserves the right to update this statement at any time. When the statement is revised, we will inform you of the changed statement through a pop-up window or notification. If you continue to use our services, it is deemed that you agree to our changed statement. Privacy Policy, we will collect, use and store your personal information in accordance with the updated statement.
 
+**6. Contact us**
 
-**Third Parties and Their Policies.**
-Throughout the Services, you may see links to third-party websites or applications. We are not responsible for the privacy practices of these third-party sites, and when accessing their sites, we encourage you to read their privacy policies.
-
-
-
-**Data Retention**
-Studio444 retains the data collected pursuant to this Privacy Policy for the period necessary for our legitimate business purposes or to comply with legal requirements. Thereafter if the collected data is no longer needed for purposes specified in this Privacy Policy, Lima Sky deletes all aforementioned data in its possession within a reasonable timeframe. If you would like your Personal Information deleted, please contact us 444together@.com. 
-
-
-
-**Cookies, Beacons and Tracking**
-
-**What are Cookies?** 
-A cookie is a small text file that is stored on your Device by a website you visit. Commonly, companies use cookies on their websites to identify visitors, to remember visitors’ preferences, to better understand how visitors use and interact with the website, and to keep visitors logged into their accounts while they navigate the website. Cookies are either first-party cookies, which belong to the domain you are visiting, or third-party cookies, which are set by and belong to a different domain than the one that you are currently visiting. 
-
-
-**Your Control Over Cookies.** 
-In some cases, a third party might give you the ability to opt-out of receiving their cookies. Please review the third party’s privacy policy and/or cookie policy for more information. You can also control how cookies are used by updating your browser settings to accept or refuse all or certain types of cookies. If you choose to reject certain cookies, please note that the Services and/or some of its features may not work properly. 
-
-
-**Safeguards**
-Studio444 follows generally accepted industry standards and maintains reasonable safeguards to attempt to ensure the security, integrity and privacy of the information in Studio444’s possession. Data collected by Studio444 is stored in secure operating environments that are not available to the public. To prevent unauthorized on-line access to data, Studio444 maintains data behind a firewall-protected server. However, no security or encryption method can be guaranteed to protect information from hackers or human error.
-
-
-
-**Special Notice REGARDING MINORS.**
-Studio444 does not knowingly collect Personal Information from persons under the age of 13. If it comes to Studio444’s attention that Personal Information has been collected from a person under the age of 13, Studio444 will delete this information. If you believe that Studio444 may have Personal Information from or about a person under the age of 13, please contact Studio444 at 444together@gmail.com.
-
-
-
-**For Customers in the European Union and Brazil.**
-
-**Legal Basis for Processing. **
-Our legal basis for collecting, using, and sharing your Personal Information will depend on the purpose for which we use your Personal Information. Typically, we will rely on the following legal bases for processing your Personal Information: (i) your consent; (ii) where our processing is in our legitimate interest or in the legitimate interest of our Ad Partners or Service Providers; or (iii) where our processing is necessary to perform a contract with you (e.g. to make the Games or Websites accessible to you). If we rely on your consent to process your Personal Information, you have the right to withdraw your consent at any time. 
-
-**Your Personal Information Rights.**
-If you would like to exercise your rights of access, rectification, erasure, restriction of processing, data portability, and/or your right to object to the processing of your Personal Information, please follow the instructions described in Section 8. If you would like to opt-out of your Personal Information being shared with our Ad Partners, please follow the instructions in Section 4(b).   
-
-**Transfer of Personal Information Outside of the EU and Brazil.**
-Because our Service Providers are located in countries outside of the European Union and Brazil, your Personal Information will be transferred to other countries that may not offer the same level of data protection as the laws of your country of residence. We rely on model contractual clauses for such transfers.
-
-**How to File Complaints related to GDPR.**
-If you believe your rights under the GDPR have been violated, you may lodge a complaint with the supervisory authority of your country of residence. For contact information for your supervisory authority, please visit here http://ec.europa.eu/justice/data-protection/article-29/structure/data-protection-authorities/index_en.htm.
+If you have any questions, comments or suggestions about this Privacy Policy, please contact us at:
+Contact: https://tracktogoal.canny.io/feature-requests
