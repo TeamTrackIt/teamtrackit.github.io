@@ -8,7 +8,7 @@ subtitle:
 
 **TrackIt PRIVACY POLICY**
 
-**Last updated: August 1, 2021**
+**Last updated: December 15, 2024**
 
 This policy only applies to the product "TrackIt" of TeamTrackIt. and its related services.
 The protection and confidentiality of your data very important. In this Privacy Policy we would like to tell you what personal data we collect and what we use it for. Below, we will tell you about the type and scope of personal data collected and used, and the purposes for which it is collected. You can call this information on our website at any time.
