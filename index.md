@@ -11,15 +11,15 @@ sitemap:
 
 <br>
 
-"Do you really know how well you’re spending your time each day?”
-Time is equally given to everyone, but how you use it can make all the difference. 
-This app is more than just a time tracker. 
-It’s a powerful companion that helps you stay focused on your goals, see the results of your efforts at a glance, and measure your progress effectively.
+"Do you really know how well you’re spending your time each day?” <br>
+Time is equally given to everyone, but how you use it can make all the difference. <br>
+This app is more than just a time tracker. <br>
+It’s a powerful companion that helps you stay focused on your goals, see the results of your efforts at a glance, and measure your progress effectively.<br>
 
-**Why should you use this app?**
-Every great achievement starts with small actions. But we often lose track of how much focus we’ve truly dedicated. 
-This app visually tracks the time you invest, giving you a clear sense of accomplishment. 
-By simply measuring and analyzing your time, you can make your day more productive and meaningful.
+**Why should you use this app?**<br>
+Every great achievement starts with small actions. But we often lose track of how much focus we’ve truly dedicated. <br>
+This app visually tracks the time you invest, giving you a clear sense of accomplishment. <br>
+By simply measuring and analyzing your time, you can make your day more productive and meaningful.<br>
 
 
 **Key Features**
